@@ -1,0 +1,37 @@
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe.config
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.pdb
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csprojResolveAssemblyReference.cache
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Form1.resources
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Properties.Resources.resources
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csproj.GenerateResource.Cache
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.exe
+c:\users\jvaldez.laboratory\documents\visual studio 2012\Projects\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.pdb
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe.config
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.exe
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.pdb
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.pdb
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Form1.resources
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Properties.Resources.resources
+C:\Users\TEMP.LABORATORY.001\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csproj.GenerateResource.Cache
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe.config
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.exe
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.pdb
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.pdb
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csprojResolveAssemblyReference.cache
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Form1.resources
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Properties.Resources.resources
+C:\Users\jvaldez.LABORATORY\Downloads\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe.config
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.exe
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\bin\Debug\prjLeerEscribirArchivo.pdb
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Form1.resources
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.Properties.Resources.resources
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.exe
+C:\Users\Carlos\Desktop\prjLeerEscribirArchivo\prjLeerEscribirArchivo\prjLeerEscribirArchivo\obj\Debug\prjLeerEscribirArchivo.pdb
